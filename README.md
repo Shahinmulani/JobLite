@@ -34,7 +34,7 @@ JOBLITE is a full-stack job searching web application developed using the MERN s
 To get a local copy up and running, follow these simple steps:
 
 1.  **Clone the repository:**    
-    `git clone https://github.com/vinitpatil2812/JobLite.git` 
+    `git clone https://github.com/Shahinmulani/JobLite.git` 
     
 2.  **Install server dependencies:**
     `cd api` 
